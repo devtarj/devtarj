@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm T Mehta</h1>
+<h1 align="center">Hello World! 👋</h1>
 <h3 align="center">An IT Specialist working on automating my recurring tasks and learning along the way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtarj&label=Profile%20views&color=0e75b6&style=flat" alt="devtarj" /> </p>
