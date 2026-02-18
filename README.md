@@ -1,60 +1,99 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="60" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+
+# 🌟 Welcome to devtarj's Profile 🌟
+
+<p><em>Scripts, security, and automation | Python, Bash, and PowerShell | AWS.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
 </div>
 
-###
+<hr>
 
+## 🔭 I'm currently working on
+
+<div align="center"><p>An IT Specialist working on automating my recurring tasks and learning along the way.</p></div>
+
+## 🌱 I'm currently learning
+
+<div align="center"><p>Learn Python, Bash, and PowerShell for security automation.
+Develop scripts to monitor, harden, and audit systems.
+Improve problem-solving through practical implementation.
+Learn by building and experimenting.</p></div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>Cybersecurity.
+Automation & scripting.
+Cloud platforms.
+Continuous learning.</p></div>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'devtarj' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devtarj&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'devtarj' with your actual GitHub username in the URL below -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/tarjmehta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/TarjMehta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="devtarj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devtarj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+## 🔝 Most Used Languages
 
+<!-- ⚠️ Important: Replace 'devtarj' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devtarj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtarj&radius=11&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtarj&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
-###
+## 🔥 Contribution Streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtarj/devtarj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtarj/devtarj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devtarj/devtarj/output/pacman-contribution-graph.svg">
-</picture>
+<!-- ⚠️ Important: Replace 'devtarj' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devtarj&theme=radical&hide_border=false" />
+</div>
 
-###
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/devtarj"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> 
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'devtarj' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=devtarj&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/devtarj?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
