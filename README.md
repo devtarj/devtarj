@@ -76,3 +76,7 @@
 </picture>
 
 ###
+
+<h3 align="center">“Security is not a product, it’s a continuous process.”</h3>
+
+###
