@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">👋 Hi, I'm TJ Mehta!<br><br>🔐 Cybersecurity Enthusiast | 🛡️ Security Tester | ☁️ Cloud Security Learner</h1>
+
+###
+
+<p align="left">I enjoy breaking things ethically so they can be fixed properly.<br>Focused on web application security, vulnerability management, and automation.</p>
+
+###
+
+<h4 align="left">🚀 About Me<br><br>🧠 Passionate about Offensive Security & Web App Pentesting.<br>☁️ Working with AWS cloud environments.<br>🛠️ Experienced with security tools in Kali Linux.<br>📜 Building practical cybersecurity playbooks.<br>💻 Learning Python, Bash, and PowerShell for security automation.<br>🌎 Exploring new tools, methodologies, frameworks, and great coffee!</h4>
 
 ###
 
@@ -44,12 +52,22 @@
 
 ###
 
+<p align="left">🔍 Areas of Interest<br><br>Web Application Security Testing.<br>Vulnerability Assessment & Management.<br>Secure Cloud Architecture (AWS).<br>Microsoft Intune, Defender for Endpoint, Exchange, and Entra ID (previously Azure AD).<br>Security Automation & Scripting.</p>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=devtarj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtarj&radius=11&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
+
+<h4 align="center">🎯 Current Goals<br><br>🚀 Build advanced hands-on pentesting skills.<br>📜 Create security automation scripts and tools.<br>🌎 Grow as a cybersecurity specialist.</h4>
+
+###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtarj/devtarj/output/pacman-contribution-graph-dark.svg">
