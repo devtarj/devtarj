@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I enjoy breaking things ethically so they can be fixed properly.<br>Focused on web application security, vulnerability management, and automation.</p>
+<p align="left">🛠️🧪 I enjoy breaking things ethically so they can be fixed properly.<br>🎯🔐 Focused on web application security, vulnerability management, and automation.</p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">🔍 Areas of Interest<br><br>Web Application Security Testing.<br>Vulnerability Assessment & Management.<br>Secure Cloud Architecture (AWS).<br>Microsoft Intune, Defender for Endpoint, Exchange, and Entra ID (previously Azure AD).<br>Security Automation & Scripting.</p>
+<p align="left">🔍 Areas of Interest<br><br>🌐🔐 Web Application Security Testing.<br>🛡️📊 Vulnerability Assessment & Management.<br>☁️🔒 Secure Cloud Architecture (AWS).<br>🏢🛡️ Microsoft Intune, Defender for Endpoint, Exchange & Entra ID (Azure AD).<br>🤖⚙️ Security Automation & Scripting.</p>
 
 ###
 
