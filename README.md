@@ -52,7 +52,7 @@
 
 ###
 
-<h4 align="left">🔍 Areas of Interest></h4><br><br>🌐🔐 Web Application Security Testing.<br>🛡️📊 Vulnerability Assessment & Management.<br>☁️🔒 Secure Cloud Architecture (AWS).<br>🏢🛡️ Microsoft Intune, Defender for Endpoint, Exchange & Entra ID (Azure AD).<br>🤖⚙️ Security Automation & Scripting.</p>
+<h4 align="left">🔍 Areas of Interest</h4><br><br>🌐🔐 Web Application Security Testing.<br>🛡️📊 Vulnerability Assessment & Management.<br>☁️🔒 Secure Cloud Architecture (AWS).<br>🏢🛡️ Microsoft Intune, Defender for Endpoint, Exchange & Entra ID (Azure AD).<br>🤖⚙️ Security Automation & Scripting.</p>
 
 ###
 
