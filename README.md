@@ -79,6 +79,6 @@
 
 <h3 align="center">“Security is not a product, it’s a continuous process.”</h3>
 
-<h5 align="center"><i>“Moving the security needle as high as it could be without impacting the business operations.”</i></h5>
+<h5 align="center"><i>Moving the security needle as high as it could be without impacting the business operations.</i></h5>
 
 ###
